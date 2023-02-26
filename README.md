@@ -6,6 +6,9 @@ The dataset is available in [Kaggle](https://www.kaggle.com/datasets/vivovinco/1
 ## Authors:
 
 > Gabriel Teixeira Carvalho
+> 
 > Raissa Miranda Maciel
+> 
 > Thiago Pádua de Carvalho
+> 
 > Victor Kenji Pawlowski Abeki
